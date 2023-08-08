@@ -1,0 +1,1 @@
+.book-card{display:flex;justify-content:center;align-items:center;height:320px;width:212px;position:absolute;opacity:0;top:24px;transition:.3s}.book-in-list,.book-card:hover{opacity:1;background-color:#0009}*{box-sizing:border-box;margin:0;padding:0}.books-library{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:25px;padding:20px 0}
